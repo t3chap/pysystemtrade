@@ -10,6 +10,7 @@ build
 private
 restats
 data/
+data
 
 # Coverage reports
 .coverage
